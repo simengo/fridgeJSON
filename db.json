@@ -2,22 +2,22 @@
   "products": [
     {
       "name": "Apple",
-      "quantity": "2",
+      "quantity": 2,
       "keep_buying": "true"
     },
     {
       "name": "Banana",
-      "quantity": "3",
+      "quantity": 3,
       "keep_buying": "false"
     },
     {
       "name": "Orange Juice",
-      "quantity": "1",
+      "quantity": 1,
       "keep_buying": "false"
     },
     {
       "name": "Ur Pils",
-      "quantity": "23",
+      "quantity": 23,
       "keep_buying": "true"
     }
   ]

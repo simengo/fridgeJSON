@@ -3,22 +3,22 @@
     {
       "name": "Apple",
       "quantity": 2,
-      "keep_buying": "true"
+      "keep_buying": true
     },
     {
       "name": "Banana",
       "quantity": 3,
-      "keep_buying": "false"
+      "keep_buying": false
     },
     {
       "name": "Orange Juice",
       "quantity": 1,
-      "keep_buying": "false"
+      "keep_buying": false
     },
     {
       "name": "Ur Pils",
       "quantity": 23,
-      "keep_buying": "true"
+      "keep_buying": true
     }
   ]
 }

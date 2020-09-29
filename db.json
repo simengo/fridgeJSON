@@ -1,24 +1,22 @@
 {
   "products": [
-    {
-      "name": "Apple",
-      "quantity": 2,
-      "keep_buying": true
-    },
-    {
-      "name": "Banana",
-      "quantity": 3,
-      "keep_buying": false
-    },
-    {
-      "name": "Orange Juice",
-      "quantity": 1,
-      "keep_buying": false
-    },
-    {
-      "name": "Ur Pils",
-      "quantity": 23,
-      "keep_buying": true
-    }
+    { "name": "Apple",
+      "quantity": "Quantity: 3", 
+      "inCart": false },
+{ "name": "Banane",
+      "quantity": "Quantity: 4", 
+      "inCart": true },
+{ "name": "Coca Cola",
+      "quantity": "Quantity: 2", 
+      "inCart": true }
+
+  ],
+  "list": [
+    { "name": "Apple",
+      "quantity": "2", 
+      "image": "apple" },
+{ "name": "Coca Cola",
+      "quantity": "2", 
+      "image": "apple" }
   ]
 }

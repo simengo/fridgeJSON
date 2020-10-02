@@ -8,6 +8,9 @@
       "inCart": true },
 { "name": "Coca Cola",
       "quantity": "Quantity: 2", 
+      "inCart": true },
+    { "name": "Fanta",
+      "quantity": "Quantity: 2", 
       "inCart": true }
 
   ],

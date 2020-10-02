@@ -3,13 +3,10 @@
     { "name": "Apple",
       "quantity": "Quantity: 3", 
       "inCart": false },
-{ "name": "Banane",
+{ "name": "Banana",
       "quantity": "Quantity: 4", 
       "inCart": true },
 { "name": "Coca Cola",
-      "quantity": "Quantity: 2", 
-      "inCart": true },
-    { "name": "Fanta",
       "quantity": "Quantity: 2", 
       "inCart": true }
 

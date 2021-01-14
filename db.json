@@ -1,20 +1,92 @@
 {
   "products": [
     { 
+      "name": "Cannabis Shot",
+      "quantity": "Quantity: 1"
+    },
+    { 
+      "name": "Cravanzina Shot",
+      "quantity": "Quantity: 2"
+    },
+    { 
       "name": "Apple",
       "quantity": "Quantity: 3"
     },
-    { 
-      "name": "Banana",
+    {
+      "name": "Yellow Pear",
       "quantity": "Quantity: 4"
     },
     {
-      "name": "Coca Cola",
-      "quantity": "Quantity: 2"
+      "name": "Green Pear",
+      "quantity": "Quantity: 5"
     },
     {
-      "name": "Yellow Pear",
-      "quantity": "Quantity: 5"
+      "name": "Green Olives",
+      "quantity": "Quantity: 6"
+    },
+    {
+      "name": "Black Olives",
+      "quantity": "Quantity: 7"
+    },
+    {
+      "name": "Bacon Egg Spread",
+      "quantity": "Quantity: 8"
+    },
+    {
+      "name": "Black Salami",
+      "quantity": "Quantity: 9"
+    },
+    {
+      "name": "Red Salami",
+      "quantity": "Quantity: 10"
+    },
+    {
+      "name": "Carrot Juice",
+      "quantity": "Quantity: 11"
+    },
+    {
+      "name": "Ginger Orange Shot",
+      "quantity": "Quantity: 12"
+    },
+    {
+      "name": "Ginger Pomegranate Shot",
+      "quantity": "Quantity: 13"
+    },
+    {
+      "name": "Lime",
+      "quantity": "Quantity: 14"
+    },
+    {
+      "name": "Orange",
+      "quantity": "Quantity: 15"
+    },
+    {
+      "name": "Kasseler",
+      "quantity": "Quantity: 16"
+    },
+    {
+      "name": "Gouda",
+      "quantity": "Quantity: 17"
+    },
+    {
+      "name": "Garlic Cream",
+      "quantity": "Quantity: 18"
+    },
+    {
+      "name": "Lyoner",
+      "quantity": "Quantity: 19"
+    },
+    {
+      "name": "Mortadella",
+      "quantity": "Quantity: 20"
+    },
+    {
+      "name": "Apple Juice",
+      "quantity": "Quantity: 21"
+    },
+    {
+      "name": "Orange Juice",
+      "quantity": "Quantity: 22"
     }
   ]
 }
